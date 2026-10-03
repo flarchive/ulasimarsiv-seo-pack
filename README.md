@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of ulasimarsiv/seo-pack.** Not for installation: use [Packagist](https://packagist.org/packages/ulasimarsiv/seo-pack) or the [upstream repository](https://github.com/framiodev/ulasimarsiv-seo-pack).
 
-**0** versions archived · Latest: [`1.3.0`](https://github.com/flarchive/ulasimarsiv-seo-pack/tree/archive/v1.3.0) · License: `MIT` · Flarum: `^2.0-beta.1`
+**30** versions archived · Latest: [`1.3.0`](https://github.com/flarchive/ulasimarsiv-seo-pack/tree/archive/v1.3.0) · License: `MIT` · Flarum: `^2.0-beta.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-04-23 | `^2.0-beta.1` | [Browse](https://github.com/flarchive/ulasimarsiv-seo-pack/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-04-23 | `^2.0-beta.1` | [Browse](https://github.com/flarchive/ulasimarsiv-seo-pack/tree/archive/v1.0.1) |
+| `1.0.2` | 2026-04-23 | `^2.0-beta.1` | [Browse](https://github.com/flarchive/ulasimarsiv-seo-pack/tree/archive/v1.0.2) |
+| `1.0.3` | 2026-04-23 | `^2.0-beta.1` | [Browse](https://github.com/flarchive/ulasimarsiv-seo-pack/tree/archive/v1.0.3) |
+| `1.0.4` | 2026-04-23 | `^2.0-beta.1` | [Browse](https://github.com/flarchive/ulasimarsiv-seo-pack/tree/archive/v1.0.4) |
+| `1.0.5` | 2026-04-23 | `^2.0-beta.1` | [Browse](https://github.com/flarchive/ulasimarsiv-seo-pack/tree/archive/v1.0.5) |
+| `1.0.6` | 2026-04-23 | `^2.0-beta.1` | [Browse](https://github.com/flarchive/ulasimarsiv-seo-pack/tree/archive/v1.0.6) |
+| `1.0.7` | 2026-04-23 | `^2.0-beta.1` | [Browse](https://github.com/flarchive/ulasimarsiv-seo-pack/tree/archive/v1.0.7) |
+| `1.0.8` | 2026-04-23 | `^2.0-beta.1` | [Browse](https://github.com/flarchive/ulasimarsiv-seo-pack/tree/archive/v1.0.8) |
+| `1.0.9` | 2026-04-23 | `^2.0-beta.1` | [Browse](https://github.com/flarchive/ulasimarsiv-seo-pack/tree/archive/v1.0.9) |
+
+[View all 30 versions](https://github.com/flarchive/ulasimarsiv-seo-pack/tags)
 
 Catalog entry: [packages/ulasimarsiv-seo-pack.json](https://github.com/flarchive/archive-index/blob/main/packages/ulasimarsiv-seo-pack.json)
 
